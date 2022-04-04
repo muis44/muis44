@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muis44
 - 👀 I’m interested in Data Engineering and Cloud Computing technologies 
 - 🌱 I’m currently learning CD/CI, Cloud Technologies and Data Engineering on advanced level 
-- 💞️ I’m looking to collaborate on Data and Sfotware Development related teams 
+- 💞️ I’m looking to collaborate on Data and Sfotware Development related projects
 - 📫 By email 
 
 <!---
